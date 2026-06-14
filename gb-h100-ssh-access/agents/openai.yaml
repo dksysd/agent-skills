@@ -1,0 +1,4 @@
+interface:
+  display_name: "GB H100 SSH Access"
+  short_description: "SSH and IDE access for the H100 cloud farm"
+  default_prompt: "Use $gb-h100-ssh-access to prepare SSH access to a GB H100 cloud environment."

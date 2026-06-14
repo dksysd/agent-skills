@@ -1,0 +1,4 @@
+interface:
+  display_name: "Shared Skill Management"
+  short_description: "Manage shared skills for Codex and Claude Code."
+  default_prompt: "Use shared-skill-management when creating, linking, validating, or troubleshooting shared Codex and Claude Code skills."

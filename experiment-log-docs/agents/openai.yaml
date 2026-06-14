@@ -1,0 +1,4 @@
+interface:
+  display_name: "Experiment Log Docs"
+  short_description: "Create reproducible experiment summaries."
+  default_prompt: "Create an experiment log from my notes using the standard structure."

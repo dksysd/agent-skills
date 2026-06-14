@@ -1,0 +1,4 @@
+interface:
+  display_name: "GB H100 Cloud Workspace"
+  short_description: "H100 workspace and storage operating rules"
+  default_prompt: "Use $gb-h100-cloud-workspace to set up a durable H100 project workspace."

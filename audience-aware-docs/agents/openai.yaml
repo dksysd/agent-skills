@@ -1,0 +1,4 @@
+interface:
+  display_name: "Audience-Aware Docs"
+  short_description: "Write documents readable by non-developers and developers."
+  default_prompt: "Use audience-aware-docs when creating, editing, summarizing, or reviewing documentation."
