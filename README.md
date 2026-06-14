@@ -15,5 +15,7 @@ Claude Code:
 원하는 skill 폴더를 위 경로에 복사하거나 symbolic link로 연결하세요.
 
 예:
+
 ln -s /path/to/shared-agent-skills/gb-h100-cloud-workspace ~/.agents/skills/gb-h100-cloud-workspace
+
 ln -s /path/to/shared-agent-skills/gb-h100-cloud-workspace ~/.claude/skills/gb-h100-cloud-workspace
